@@ -1,9 +1,6 @@
 # Ex-01-Linux-Commands
-
-"""
-NAME: Vembarasan P
-EG NO : 212223220123
-
+## Name: vembarasan P
+## Reg.no:212223220123
 ## Aim:
 
 To study the execution of various Linux operating system commands.
